@@ -1,0 +1,9 @@
+C:\Users\huyen\Documents\DOAN1\DA1\DAL\bin\Debug\DAL.dll
+C:\Users\huyen\Documents\DOAN1\DA1\DAL\bin\Debug\DAL.pdb
+C:\Users\huyen\Documents\DOAN1\DA1\DAL\bin\Debug\DTO.dll
+C:\Users\huyen\Documents\DOAN1\DA1\DAL\bin\Debug\DTO.pdb
+C:\Users\huyen\Documents\DOAN1\DA1\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\huyen\Documents\DOAN1\DA1\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\huyen\Documents\DOAN1\DA1\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\huyen\Documents\DOAN1\DA1\DAL\obj\Debug\DAL.dll
+C:\Users\huyen\Documents\DOAN1\DA1\DAL\obj\Debug\DAL.pdb
